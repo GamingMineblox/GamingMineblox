@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamingmineblox" alt="gamingmineblox" /></a> </p>
 
-- 🔭 I’m currently working on [AtlasNet Minecraft Servers](https://atlasnet.ltd/)
+- 🔭 I’m currently working on [AtlasServers Hosting](https://atlasservers.net/)
 
 - 🌱 I’m currently learning **Java, React, GoLang**
 
-- 👯 I’m looking to collaborate on [AtlasNet Minecraft Plugin](mailto:support@atlasnet.ltd)
+- 👯 I’m looking to collaborate on [AtlasServers Minecraft Plugin](mailto:support@atlasservers.net)
 
-- 👨‍💻 Most of my projects are made for [AtlasNet](https://atlasnet.ltd)
+- 👨‍💻 Most of my projects are made for [AtlasServers](https://atlasservers.net)
 
 - 💬 Ask me about **Javascript, HTML, CSS, PHP**
 
-- 📫 How to reach me **support@atlasnet.ltd**
+- 📫 How to reach me **koenv@atlasservers.net**
 
 - ⚡ Fun fact **I teached myself coding!**
 
