@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koen - aka GamingMineblox</h1>
 <h3 align="center">I'm a Student and Developer from the Netherlands!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamingmineblox" alt="gamingmineblox" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamingmineblox&theme=onedark" alt="gamingmineblox" /></a> </p>
 
 - 🔭 I’m currently working on [AtlasServers Hosting](https://atlasservers.net/)
 
